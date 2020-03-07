@@ -1,18 +1,15 @@
-# gatsby-starter-strata
+# iCenter Tech Data Science
 
-**This is a starter for Gatsby.js V2.**
+Portal de Data Science do iCenter
 
-**The older V1 version of this starter can be found on the v1 branch**
+## Como começar
 
-Gatsby starter based on the Strata site template, designed by [HTML5 UP](https://html5up.net/strata). Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
+1. Programas necessários: [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), [node](https://nodejs.org/) e [gatsby](https://www.gatsbyjs.org/)
+2. Faça um Fork desse repositório
+3. Clone o repositório para a sua maquina de desenvolvimento local
+4. Entre no diretório do projeto recém clonado e instale as dependências com `npm install` ou `yarn`
+5. Crie o seu artigo sobre data science na parta `scr/posts` na linguagem markdown
+6. Teste a visualização do site com `gatsby develop`
+7. Faça um commit da suas alterações e realize um pull-request para ter o seu artigo publicado no site do iCenter Tech Data Science
 
-## Preview
-
-http://gatsby-strata.surge.sh/
-
-## Installation
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-starter-strata https://github.com/ChangoMan/gatsby-starter-strata`
-
-Run `gatsby develop` in the terminal to start.
+Template utilizado: http://gatsby-strata.surge.sh/
